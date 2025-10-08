@@ -21,14 +21,9 @@ You can leave me a message via [GitHub Discussion](https://github.com/vladislav-
 
 ## 🏷️ Badges
 [![Followers](https://img.shields.io/github/followers/vladislav-dan?style=social)](https://github.com/vladislav-dan)
-[![Stars](https://img.shields.io/github/stars/vladislav-dan?style=social)](https://github.com/vladislav-dan)
 [![](https://visitcount.itsvg.in/api?id=vladislav-dan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
