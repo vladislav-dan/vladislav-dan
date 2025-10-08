@@ -1,6 +1,5 @@
 # vladislav-dan
 Hey! My name is vladislav-dan and I'm a DevOps/SRE.
-You can leave me a message via [GitHub Discussion](https://github.com/vladislav-dan/vladislav-dan/discussions/new?category=general).
 
 ## 🌐 Socials:
 
