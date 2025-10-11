@@ -16,7 +16,8 @@ Hey! My name is vladislav-dan and I'm a DevOps/SRE.
 
 ## 📦 Projects
 - mailrucloud — forked CLI client. Repo: [vladislav-dan/mailrucloud](https://github.com/vladislav-dan/mailrucloud)
-- Obsidian — Private notes and projects in development
+- wg-telebot — WireGuard connection monitor with Telegram notifications. Auto-discovery, real-time alerts, Docker Alpine container
+- Obsidian — Private notes and projects in development [vladislav-dan/wg-telebot](https://github.com/vladislav-dan/wg-telebot)
 
 ## 🏷️ Badges
 [![Followers](https://img.shields.io/github/followers/vladislav-dan?style=social)](https://github.com/vladislav-dan)
