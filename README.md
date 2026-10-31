@@ -1,8 +1,6 @@
 # vladislav-dan
 Hey! My name is vladislav-dan and I'm a DevOps/SRE.
 
-## 🌐 Socials:
-
 # 💻 Tech Stack:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
